@@ -6,21 +6,14 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/companies/downloads)](https://packagist.org/packages/laravel-enso/companies)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/companies/version)](https://packagist.org/packages/laravel-enso/companies)
 
-Company management dependency for [Laravel Enso](https://github.com/laravel-enso/Enso).
 
-[![Screenshot](https://laravel-enso.github.io/companies/screenshots/bulma_001_thumb.png)](https://laravel-enso.github.io/companies/screenshots/bulma_001.png)
+
+[![Screenshot](https://raw.githubusercontent.com/TeslyaSergey/company-management-system-using-Laravel/main/bulma_001_thumb.png)](https://raw.githubusercontent.com/TeslyaSergey/company-management-system-using-Laravel/main/bulma_001_thumb.png)
 
 [![Screenshot](https://laravel-enso.github.io/companies/screenshots/bulma_002_thumb.png)](https://laravel-enso.github.io/companies/screenshots/bulma_002.png)
 
 <sup>click on the photo to view a large size screenshot</sup>
 
-### Installation, Configuration & Usage
-
-Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/backend/companies.html)
-
-### Contributions
-
-are welcome. Pull requests are great, but issues are good too.
 
 ### License
 
