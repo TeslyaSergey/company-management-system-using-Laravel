@@ -10,7 +10,7 @@
 
 [![Screenshot](https://raw.githubusercontent.com/TeslyaSergey/company-management-system-using-Laravel/main/bulma_001_thumb.png)](https://raw.githubusercontent.com/TeslyaSergey/company-management-system-using-Laravel/main/bulma_001_thumb.png)
 
-[![Screenshot](https://laravel-enso.github.io/companies/screenshots/bulma_002_thumb.png)](https://laravel-enso.github.io/companies/screenshots/bulma_002.png)
+[![Screenshot](https://github.com/TeslyaSergey/company-management-system-using-Laravel/blob/main/bulma_002_thumb.png?raw=true)](https://github.com/TeslyaSergey/company-management-system-using-Laravel/blob/main/bulma_002_thumb.png?raw=true)
 
 <sup>click on the photo to view a large size screenshot</sup>
 
